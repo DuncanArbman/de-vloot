@@ -1,0 +1,103 @@
+article {
+	color: black;
+	margin: auto;
+	width: 800px;
+	background-color: white;
+	margin-top: 0;
+
+
+}
+header {
+		background-image: url("css/grfx/header.jpg");
+		background-repeat: no-repeat;
+		background-position: top;
+		height: 260px;
+		margin: 0px auto;
+
+}
+.h1	{
+	 margin: 5px 390px;
+	 
+
+
+}
+.title {
+		margin: 0px;
+     	padding: 0px 391px 37px;
+	
+}
+.top-menu {
+	       margin: 121px 342px;
+	     	
+}
+li {
+	display: inline;
+	color: white;
+	padding: 10px 5px
+}
+
+body { 
+	background-image: url(css/grfx/bg.png);
+	background-repeat: repeat-x;
+	font-family:  verdana;
+
+
+
+
+}
+h2 {
+	margin-top: 0;
+	margin-left: 15px;
+	padding: 10px;
+
+}
+.top-left {
+		  margin-top: 5px;
+		  margin-right: 25px;
+		  margin-bottom: 30px;
+		  margin-left: 20px;
+		  float: left;
+
+}
+.bottom-right{
+			margin-top: 5px;
+			margin-right: 25px;
+			margin-bottom: 30px;
+			margin-left: 20px;
+			float: right;
+
+}
+.top-right{	
+			margin-top: 5px;
+			margin-right: 25px;
+			margin-bottom: 30px;
+			margin-left: 20px;
+			float: right;
+
+
+}
+.bottom-left{
+			margin-top: 5px;
+			margin-right: 25px;
+			margin-bottom: 30px;
+			margin-left: 1px;
+			float: left;
+			padding: 5px
+
+}
+
+p {
+	font-size: 15px;
+	padding: 15px;
+
+}
+a {
+	color: white;
+	text-decoration: none;
+}
+li a:hover {
+    color: lightblue;
+}
+
+
+
